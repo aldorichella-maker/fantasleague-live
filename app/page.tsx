@@ -76,7 +76,7 @@ export default function Home() {
     }
   }
 
-  const extracted = 140 - availableTeams.length;
+  const extracted = 160 - availableTeams.length;
 
   return (
     <main className="min-h-screen bg-gradient-to-b from-black via-zinc-950 to-black text-white">
@@ -156,7 +156,7 @@ export default function Home() {
                 liveMode ? "text-5xl" : "text-4xl"
               }`}
             >
-              7
+              {leagues.length}
             </p>
           </div>
         </div>
