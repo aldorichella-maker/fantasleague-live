@@ -45,8 +45,8 @@ export const LEAGUES = [
     id: 7,
     league: "Premiership",
     leagueLogo: "/leagues/premiership.png",
-    sponsor: "",
-    logo: "",
+    sponsor: "Trama Lab",
+    logo: "/sponsors/trama-lab.png",
   },
   {
     id: 8,
