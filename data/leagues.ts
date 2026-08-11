@@ -52,7 +52,7 @@ export const LEAGUES = [
     id: 8,
     league: "Jupiler Pro League",
     leagueLogo: "/leagues/jupiler-pro-league.png",
-    sponsor: "",
-    logo: "",
+    sponsor: "GaRò",
+    logo: "/sponsors/garo.png",
   },
 ];
